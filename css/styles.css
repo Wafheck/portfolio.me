@@ -27,3 +27,7 @@
 .container .footer{
     padding: 225px 0px;
 }
+
+.container .footer{
+    text-align: center;
+}
